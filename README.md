@@ -1,7 +1,7 @@
 # 2048
 
- <img src="Pictures/ScreenShot_02.png" width="400"> 
+<img src="screenshots/ScreenShot - 1.png" width="400"> 
 
-<img src="Pictures/ScreenShot_04.png" width="400">
+<img src="screenshots/ScreenShot - 2.png" width="400">
 
-<img src="Pictures/ScreenShot_05.png" width="400">
+<img src="screenshots/ScreenShot - 3.png" width="400">
